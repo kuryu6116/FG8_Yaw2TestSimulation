@@ -1,0 +1,2 @@
+# FG8_Yaw2TestSimulation
+yaw2の運用時のテスト環境。現状固定砲台を作成用
